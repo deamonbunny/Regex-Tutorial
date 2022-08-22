@@ -8,8 +8,6 @@ A gist for understanding the basics of Email Validation through Regex
 * [Installation](#installation "installation")
 * [Usage Info](#Usage-Info "Usage-Info")
 * [License](#License "Goto License")
-* [Contribution Guidelines](#Test-Instructions "Goto est-Instructions")
-* [Test Instructions](#Contribution-Guidelines "Goto Contribution-Guidelines")
 * [Questions](#Questions "Goto Questions")
 
 ## Installation ##
